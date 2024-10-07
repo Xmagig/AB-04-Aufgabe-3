@@ -4,5 +4,5 @@ Drop Game
 A Game Withe custom Sprits (Not Background) 
 
 Infinetly spawning Drop objekts 
-stationary umbrellas
-Drops despawn when coliding withe a umbrella
+, stationary umbrellas
+, Drops despawn when coliding withe a umbrella
